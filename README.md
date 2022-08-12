@@ -1,6 +1,7 @@
 # Resources for Small and Medium Businesses
 Resources, White Papers, and Blog Posts from our website
 
+```
 ├── Public Data Prep
 │   └── get_ppp_loans.py
 └── White Papers and Posts
@@ -17,3 +18,4 @@ Resources, White Papers, and Blog Posts from our website
     ├── using_office_suite_for_mass_emails.md
     ├── web_spiders.md
     └── winning_the_data_arms_race.md
+```
