@@ -5,7 +5,7 @@ Resources, White Papers, and Blog Posts from our website
 ├── Public Data Prep
 │   └── get_ppp_loans.py
 └── White Papers and Posts
-    ├── [ai_ethical_reviews.md](ai_ethical_reviews.md)
+    ├── [ai_ethical_reviews.md](https://github.com/shadow-lake-partners/resources/blob/main/White%20Papers%20and%20Posts/ai_ethical_reviews.md)
     ├── assessing_the_qality_of data.md
     ├── automation_imperatives.md
     ├── bad_software_and_how_to_avoid_it.md
