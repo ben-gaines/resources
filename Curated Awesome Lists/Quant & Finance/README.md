@@ -1,3 +1,4 @@
 # Quant & Finance Resources
 
-#### [Libraries for Quants](https://github.com/wilsonfreitas/awesome-quant)
+#### [Code Libraries for Quants](https://github.com/wilsonfreitas/awesome-quant)
+#### [Investing](https://github.com/mr-karan/awesome-investing)
