@@ -5,8 +5,8 @@ Resources, White Papers, and Blog Posts from our website
 ├── Public Data Prep
 │   └── get_ppp_loans.py
 └── White Papers and Posts
-    ├── [ai_ethical_reviews.md](https://github.com/shadow-lake-partners/resources/blob/main/White%20Papers%20and%20Posts/ai_ethical_reviews.md)
-    ├── assessing_the_qality_of data.md
+    ├── ai_ethical_reviews.md
+    ├── assessing_the_qality_of_data.md
     ├── automation_imperatives.md
     ├── bad_software_and_how_to_avoid_it.md
     ├── data_dictionaries.md
@@ -20,19 +20,3 @@ Resources, White Papers, and Blog Posts from our website
     └── winning_the_data_arms_race.md
 ```
 
-├── Public Data Prep
-│   └── get_ppp_loans.py
-└── White Papers and Posts
-    ├── [ai_ethical_reviews.md](https://github.com/shadow-lake-partners/resources/blob/main/White%20Papers%20and%20Posts/ai_ethical_reviews.md)
-    ├── assessing_the_qality_of data.md
-    ├── automation_imperatives.md
-    ├── bad_software_and_how_to_avoid_it.md
-    ├── data_dictionaries.md
-    ├── data_support_plans_not_data_strategy.md
-    ├── good_code_bad_code.md
-    ├── primer_on_dorking.md
-    ├── scaling_with_for_loops.md
-    ├── text_clustering.md
-    ├── using_office_suite_for_mass_emails.md
-    ├── web_spiders.md
-    └── winning_the_data_arms_race.md
