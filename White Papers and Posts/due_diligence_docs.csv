@@ -1,0 +1,47 @@
+﻿category,document_id,document,description   
+Financial Information,1.01,Consolidated Annual Financial Statements,Consolidating annual financial statements the last 5 years
+Financial Information,1.02,Monthly Financial Statements,Monthly financial statements for the last 3 years and current year-to-date (YTD)
+Financial Information,1.03,Budgets,Monthly budget and/or annual budgets prepared for the last 3 years and YTD
+Financial Information,1.04,General Ledger Export,Raw general ledger export for the last 3 years and YTD
+Financial Information,1.05,Sales And Gross Margin By Business Segment,Monthly sales and gross margin by service type for the last 3 years and YTD
+Financial Information,1.06,Sales And Gross Margin By Customer,Monthly sales and gross margin by customer for the last 3 years and YTD
+Financial Information,1.07,Sales And Gross Margin By End Market,Monthly sales and gross margin by end market for the last 3 years and YTD
+Financial Information,1.08,Fixed Asset Listing,"Listing of all fixed assets acquired over the for the last 3 years and YTD. Provide details of any liens (including leases) on any  assets, including original cost and date of purchase. If expensed, please indicate what account in the P&L such costs are recorded. "
+Financial Information,1.09,CapEx,Maintenance and growth capital expenditure budget for 2022 and estimate of future annual capital expenditure needs by type after 2022
+Financial Information,1.10,Accounts Receivable Policy,Description of A/R allowance policies and collection history
+Financial Information,1.11,AR and AP Agings,Accounts receivable and accounts payable aging schedules as of last 3 fiscal year ends and most recent month of closed out financials.
+Financial Information,1.12,Tax returns,"All federal, state, and local tax returns for the last 3 years and copies of any tax audit reports, inquiries, disputes, or settlements"
+Financial Information,1.13,Assets and Depreciation,Document outlining the fixed asset accounts on the balance sheet and the company's policy for booking depreciation expense.  Include a schedule of depreciation for the past three years.
+Financial Information,1.14,Invoices,All invoices for last three years and YTD
+Customers,2.01,Customer Contracts,"Copies of any contracts currently in place with customers [and summary information including customer type, services provided, length of relationship, contractual revenue, and renewal dates]"
+Customers,2.02,Lost Customers,"Listing of all customers who have canceled or terminated contracts, or stopped using services over the last 5 years, including that customer’s annual revenue and whether that customer subsequently replaced the Company with a competitor"
+Suppliers,3.01,Supplier Contracts,Copies of any contracts currently in place with the top 10 suppliers
+Suppliers,3.02,Supplier Details,"Listing of the top 10 suppliers for the last 3 years, including amount of purchases and type of product supplied (e.g. type of equipment, materials, etc.)"
+Suppliers,3.03,Supplier Changes,"List any significant changes in suppliers, including what was the driver of the change"
+Operations,4.01,KPIs,"Copies of KPIs and other management reporting dashboards (i.e. project tracking, labor hour tracking, etc.) or any other metric or tool used to help manage the business."
+Operations,4.02,Service Offerings,Listing and description of any services that the Company has added or discontinued over the last 5 years
+Operations,4.03,Competitors ,"Detailed overview of competitive landscape, including the Company’s value proposition, differentiations compared to competitors, and any available information about competitors from any source"
+Operations,4.04,Facilities,"Provide a listing of all facilities utilized by the business. Please indicate the sq. ft., building upgrades/features, property tax information, and insurance costs, rent (as applicable)."
+Operations,4.05,Internal Systems,"Provide an overview of the IT System used in the Company's day-to-day operations. This includes systems for accounting, scheduling, fleet management, field-based systems to track technician time, and any other key software systems"
+Operations,4.06,Market Research Reports,"Copies of any industry articles, analyst reports or trade journals that the Company has access to or utilizes in its business"
+Employees,5.01,Organizational Chart,Employee organization chart by functional group
+Employees,5.02,Employee Census,"Detailed employee listing, including location, title, functional area, date of hire, salary vs. hourly, full-time vs. part-time, compensation rates (per hour or per year), and benefits for the last three years and YTD"
+Employees,5.03,Monthly Headcount,Monthly headcount by functional group for for the last three years and YTD
+Employees,5.04,Employee Turnover,"Summary employee turnover data for each of the past 3 years, including number of employees, new hires, and terminations "
+Employees,5.05,Employee Benefits,Summary of employee health and benefits plans currently in place and compliance with the Affordable Care Act
+Employees,5.06,Employment Agreements,Copies of any employment agreements and/or non-compete agreements
+Employees,5.07,Licenses / Certifications,"List of all certifications, licenses, and affiliations held at the employee level and organization level "
+Employees,5.08,Employee Safety & Training,Provide any existing employee training & safety documents
+Sales & Marketing,6.01,Sales & Marketing Strategy,Overview of current sales and marketing strategy
+Sales & Marketing,6.02,Sales Team,"Description of sales team, including compensation plans and territories and/or customers serviced"
+Sales & Marketing,6.03,Marketing Materials,"Examples of RFPs, marketing brochures, price estimates, bids, etc."
+Sales & Marketing,6.04,Backlog/Pipeline,Backlog / pipeline of key prospective customers as of last 3 fiscal year ends and most recent month with the outcome of each prospective customer listed
+Sales & Marketing,6.05,Contracts,"Copies of contracts with individuals or organizations functioning as reps, independent salesmen, and internal sales personnel"
+Legal & Regulatory,7.01,"Regulatory Permits, Licenses, and Certificates ","Listing of all regulatory permits, licenses, and certificates "
+Legal & Regulatory,7.02,Insurance Policies,Listing of insurance policies currently in force
+Legal & Regulatory,7.03,Regulatory Actions,Summaries of any regulatory action or findings in the last 3 years 
+Legal & Regulatory,7.04,Litigation,Summary of any actual or threatened litigation in the last 3 years
+Legal & Regulatory,7.05,Indebtedness,"All agreements evidencing indebtedness, whether or not for borrowed money (including sale and leaseback arrangements, equipment leasing or financing arrangements, installment purchases, guaranties, bonding etc.), and all related security agreements, indentures, mortgages, guaranties and related instruments and all related compliance reports and certificates"
+Legal & Regulatory,7.06,Additional Contracts,Copies of any additional contracts not covered by the supplier and customer contracts in the respective section of this request list
+Legal & Regulatory,7.07,Safety incidents,Please provide details pertaining to any safety incident / OSHA filings.
+Legal & Regulatory,7.08,Environmental Matters,"All reports (internal or external) prepared during the last 3 years regarding any environmental testing or environmental matters (including PCB and asbestos) affecting the Company’s business generally or any current or former facilities or properties owned or operated by the Company (including all Phase I or II environmental site assessments, environmental compliance audit reports, auditor’s letters, reports to management, reports to governmental authorities and reports to insurance carriers)"
